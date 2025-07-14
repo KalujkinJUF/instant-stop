@@ -1,0 +1,71 @@
+Unsupposrted library path: C:\Users\Kalujkin\Desktop\mod\build\classes\java\api
+Unsupposrted library path: C:\Users\Kalujkin\Desktop\mod\build\resources\api
+Symbol range map extraction starting
+Processing 1 files
+startProcessing "com/kalujkin/instantstopmod/InstantStopMod.java" md5: dd2bdaa29d556dbc317ae47cb8534914
+@|com/kalujkin/instantstopmod/InstantStopMod.java|8|35|com.kalujkin.instantstopmod|package|com.kalujkin.instantstopmod|(file)
+Class Start: com.kalujkin.instantstopmod.InstantStopMod
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|421|424|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|425|430|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|433|447|InstantStopMod|class|com.kalujkin.instantstopmod.InstantStopMod|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|448|453|MODID|field|com.kalujkin.instantstopmod.InstantStopMod|MODID
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|455|459|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|462|476|InstantStopMod|class|com.kalujkin.instantstopmod.InstantStopMod|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|477|481|NAME|field|com.kalujkin.instantstopmod.InstantStopMod|NAME
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|483|490|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|493|507|InstantStopMod|class|com.kalujkin.instantstopmod.InstantStopMod|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|508|515|VERSION|field|com.kalujkin.instantstopmod.InstantStopMod|VERSION
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|531|545|InstantStopMod|class|com.kalujkin.instantstopmod.InstantStopMod|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|573|579|String|class|java.lang.String|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|573|579|String|class|java.lang.String|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|580|585|MODID|field|com.kalujkin.instantstopmod.InstantStopMod|MODID|
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|631|637|String|class|java.lang.String|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|631|637|String|class|java.lang.String|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|638|642|NAME|field|com.kalujkin.instantstopmod.InstantStopMod|NAME|
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|690|696|String|class|java.lang.String|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|690|696|String|class|java.lang.String|false
+   @|com/kalujkin/instantstopmod/InstantStopMod.java|697|704|VERSION|field|com.kalujkin.instantstopmod.InstantStopMod|VERSION|
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|784|789|event|param|com.kalujkin.instantstopmod.InstantStopMod|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|722|738|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|756|760|init|method|com.kalujkin.instantstopmod.InstantStopMod|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|761|783|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|802|816|MinecraftForge|class|net.minecraftforge.common.MinecraftForge|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|817|826|EVENT_BUS|field|net.minecraftforge.common.MinecraftForge|EVENT_BUS
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|827|835|register|method|net.minecraftforge.fml.common.eventhandler.EventBus|register|(Ljava/lang/Object;)V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: onInput(Lnet/minecraftforge/client/event/InputUpdateEvent;)V
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|915|920|event|param|com.kalujkin.instantstopmod.InstantStopMod|onInput|(Lnet/minecraftforge/client/event/InputUpdateEvent;)V|event|0
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|858|872|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|890|897|onInput|method|com.kalujkin.instantstopmod.InstantStopMod|onInput|(Lnet/minecraftforge/client/event/InputUpdateEvent;)V
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|898|914|InputUpdateEvent|class|net.minecraftforge.client.event.InputUpdateEvent|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|933|945|GameSettings|class|net.minecraft.client.settings.GameSettings|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|957|966|Minecraft|class|net.minecraft.client.Minecraft|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|967|979|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|982|994|gameSettings|field|net.minecraft.client.Minecraft|gameSettings
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1021|1035|keyBindForward|field|net.minecraft.client.settings.GameSettings|keyBindForward
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1036|1045|isKeyDown|method|net.minecraft.client.settings.KeyBinding|isKeyDown|()Z
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1078|1089|keyBindBack|field|net.minecraft.client.settings.GameSettings|keyBindBack
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1090|1099|isKeyDown|method|net.minecraft.client.settings.KeyBinding|isKeyDown|()Z
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1132|1143|keyBindLeft|field|net.minecraft.client.settings.GameSettings|keyBindLeft
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1144|1153|isKeyDown|method|net.minecraft.client.settings.KeyBinding|isKeyDown|()Z
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1186|1198|keyBindRight|field|net.minecraft.client.settings.GameSettings|keyBindRight
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1199|1208|isKeyDown|method|net.minecraft.client.settings.KeyBinding|isKeyDown|()Z
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1229|1234|event|param|com.kalujkin.instantstopmod.InstantStopMod|onInput|(Lnet/minecraftforge/client/event/InputUpdateEvent;)V|event|0
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1235|1251|getMovementInput|method|net.minecraftforge.client.event.InputUpdateEvent|getMovementInput|()Lnet/minecraft/util/MovementInput;
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1254|1265|moveForward|field|net.minecraft.util.MovementInput|moveForward
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1284|1289|event|param|com.kalujkin.instantstopmod.InstantStopMod|onInput|(Lnet/minecraftforge/client/event/InputUpdateEvent;)V|event|0
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1290|1306|getMovementInput|method|net.minecraftforge.client.event.InputUpdateEvent|getMovementInput|()Lnet/minecraft/util/MovementInput;
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1309|1319|moveStrafe|field|net.minecraft.util.MovementInput|moveStrafe
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1340|1349|Minecraft|class|net.minecraft.client.Minecraft|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1350|1362|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1365|1371|player|field|net.minecraft.client.Minecraft|player
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1372|1379|motionX|field|net.minecraft.entity.Entity|motionX
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1398|1407|Minecraft|class|net.minecraft.client.Minecraft|false
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1408|1420|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1423|1429|player|field|net.minecraft.client.Minecraft|player
+      @|com/kalujkin/instantstopmod/InstantStopMod.java|1430|1437|motionZ|field|net.minecraft.entity.Entity|motionZ
+   Method End: onInput(Lnet/minecraftforge/client/event/InputUpdateEvent;)V
+Class End  : com.kalujkin.instantstopmod.InstantStopMod
+endProcessing "com/kalujkin/instantstopmod/InstantStopMod.java"
+

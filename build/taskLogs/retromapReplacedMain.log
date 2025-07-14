@@ -1,0 +1,30 @@
+Processing 1 files
+Start Processing: com/kalujkin/instantstopmod/InstantStopMod.java
+New Key: class net/minecraftforge/fml/common/Mod
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[967,979]::getMinecraft->func_71410_x
+Rename field net/minecraft/client/Minecraft/gameSettings[982,994]::gameSettings->field_71474_y
+Rename field net/minecraft/client/settings/GameSettings/keyBindForward[1022,1036]::keyBindForward->field_74351_w
+Rename method net/minecraft/client/settings/KeyBinding/isKeyDown ()Z[1036,1045]::isKeyDown->func_151470_d
+Rename field net/minecraft/client/settings/GameSettings/keyBindBack[1082,1093]::keyBindBack->field_74368_y
+Rename method net/minecraft/client/settings/KeyBinding/isKeyDown ()Z[1096,1105]::isKeyDown->func_151470_d
+Rename field net/minecraft/client/settings/GameSettings/keyBindLeft[1142,1153]::keyBindLeft->field_74370_x
+Rename method net/minecraft/client/settings/KeyBinding/isKeyDown ()Z[1156,1165]::isKeyDown->func_151470_d
+Rename field net/minecraft/client/settings/GameSettings/keyBindRight[1202,1214]::keyBindRight->field_74366_z
+Rename method net/minecraft/client/settings/KeyBinding/isKeyDown ()Z[1216,1225]::isKeyDown->func_151470_d
+Rename field net/minecraft/util/MovementInput/moveForward[1275,1286]::moveForward->field_192832_b
+Rename field net/minecraft/util/MovementInput/moveStrafe[1333,1343]::moveStrafe->field_78902_a
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[1377,1389]::getMinecraft->func_71410_x
+Rename field net/minecraft/client/Minecraft/player[1392,1398]::player->field_71439_g
+Rename field net/minecraft/entity/Entity/motionX[1406,1413]::motionX->field_70159_w
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[1448,1460]::getMinecraft->func_71410_x
+Rename field net/minecraft/client/Minecraft/player[1463,1469]::player->field_71439_g
+Rename field net/minecraft/entity/Entity/motionZ[1477,1484]::motionZ->field_70179_y
+Import: net.minecraft.client.Minecraft
+Import: net.minecraft.client.settings.GameSettings
+Import: net.minecraftforge.client.event.InputUpdateEvent
+Import: net.minecraftforge.common.MinecraftForge
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+End  Processing: com/kalujkin/instantstopmod/InstantStopMod.java
+

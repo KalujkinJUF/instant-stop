@@ -1,0 +1,12 @@
+[{
+    "modid": "instantstopmod",
+    "name": "Instant Stop Mod",
+    "description": "disables 'glide' effect",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "authorList": ["Kalujkin"],
+    "credits": "",
+    "url": "https://github.com/KalujkinJUF/instant-stop",
+    "updateUrl": "",
+    "logoFile": "",
+ }]
